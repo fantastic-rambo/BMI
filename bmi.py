@@ -1,4 +1,6 @@
-print("Hello! Welcome to the BMI Tracking app! \n")
+print("Hello! I am Isaac Rambo\n")
+
+print("Welcome to the BMI Tracking app! \n")
 print("==================================================")
 
    #input functionality
