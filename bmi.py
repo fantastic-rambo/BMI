@@ -19,7 +19,7 @@ while True:
 
     print("==================================================")
 
-# logic
+# logic..
 
     if BMI <= 18.4:
         print("Name:", name, "\nAge:", age, "\nWeight:", weight,"kg",
