@@ -3,7 +3,7 @@
 
 # BMI Calculator
 
-![BMI Calculator](bmi_calculator.png)
+![BMI Calculator](https://miro.medium.com/v2/resize:fit:828/format:webp/1*rO8ZcqySxmXWf3qrzlkqyw.png)
 
 ## Overview
 
@@ -32,7 +32,7 @@ The BMI (Body Mass Index) Calculator is a simple and intuitive Python program th
 
 ## BMI Categories
 
-![BMI Categories](bmi_categories.png)
+![BMI Categories](https://www.pnbmetlife.com/content/dam/pnb-metlife/images/icons/bmi-calculator/meter.png)
 
 ## License
 
