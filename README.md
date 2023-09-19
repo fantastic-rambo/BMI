@@ -44,4 +44,4 @@ Contributions and improvements to the BMI Calculator are welcome! If you'd like 
 
 ---
 
-You can replace `"bmi_calculator.png"` and `"bmi_categories.png"` with the actual file names of your images and make sure those images are in the same directory as your README file. This description provides a clear overview of your BMI Calculator project, how to use it, and the relevant images for better user understanding.
+Contact Me @
