@@ -1,7 +1,7 @@
 print("Hello! I am Isaac Rambo\n")
 
 print("Welcome to the BMI Tracking app! \n")
-print("==================================================")
+print("===================================================")
 
    #input functionality
 
