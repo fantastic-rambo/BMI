@@ -51,7 +51,7 @@ while True:
 
         print("\n==================================================")
 
-        print("Thank you for using the app \n Powered by PAARN")
+        print("Thank you for using the app \n Powered by RAMBO TECH INDUSTRIES")
         exit()
     else:
         print("Invalid input. Please enter (y/n):")
